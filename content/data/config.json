@@ -73,7 +73,8 @@
                 "url": "https://github.com/user1hac",
                 "altText": "github profile links",
                 "showIcon": true,
-                "icon": "github"
+                "icon": "github",
+                "iconPosition": "right"
             }
         ],
         "contacts": {
